@@ -1,0 +1,17 @@
+
+body{
+    background-image: url('https://64.media.tumblr.com/c0dc89d0f3d362a05687b4283266ca59/tumblr_ox5gb50aew1qeyvpto1_500.gifv') !important;
+    background-size: cover;
+}
+.form24
+{
+    border : 8px outset white  !important ;
+    height :250px;
+    padding-top: 20px;
+    border-radius: 15px !important;
+    color:white  !important;
+    width:30%  !important;
+    display: flex  !important;
+    justify-content: center !important;
+}
+
